@@ -1,3 +1,5 @@
+**Issue fixed in https://github.com/remix-run/remix/pull/6309.** Thanks @markdalgleish!
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
